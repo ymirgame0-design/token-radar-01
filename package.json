@@ -1,0 +1,5 @@
+{
+  "name": "token-radar-01",
+  "type": "module",
+  "main": "main.ts"
+}
